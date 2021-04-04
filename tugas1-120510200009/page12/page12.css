@@ -1,0 +1,49 @@
+.elem {
+    border: solid seagreen 3px;
+}
+
+div{
+    display: block;
+    border:solid green;
+}
+.elem-red {
+    border: solid #d64078 3px;
+    margin-left: -4px;
+    
+}
+nav {
+    float:left;
+    width:200px;
+}
+li{
+    text-align: justify;
+    padding-left:20px;
+}
+.elem {
+    /*border: solid seagreen 3px;*/
+    position : relative;
+}
+.elem-green {
+    border:solid yellow 3px;
+
+}
+section{
+    margin-left:200px;
+    display:block;
+}
+.elem p {
+    padding:0 1em;
+    box-sizing:border-box;
+}
+p {
+    margin: 1em 0;
+    display:block;
+    margin-block-start: 1em;
+    margin-block-end:1em;
+    margin-inline-start:0px;
+    margin-inline-end:0px;
+}
+.ipsum{
+    color: #734161;
+    background-color:white;
+}

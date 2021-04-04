@@ -1,0 +1,31 @@
+
+    h1 {
+        margin :5px auto 1px;
+        max-width:  600px;
+        text-align:center;
+        }
+    .main {
+        text-align: center;
+        max-width: 1500px;
+        margin:1px auto;
+
+        }    
+    .elem {
+        text-align: center;
+    }
+    .a:link {
+        color:hotpink;
+        text-decoration: none;
+        cursor:pointer;
+    }
+    #logos img {
+        margin:5px;
+        border: solid white 5px; 
+        vertical-align: middle;
+        position:relative
+    }
+
+
+    img {
+        max-width: 100%;
+    }

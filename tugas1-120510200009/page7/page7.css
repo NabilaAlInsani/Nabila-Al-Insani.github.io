@@ -1,0 +1,51 @@
+.relative1 {
+    position: relative;
+    border-style:solid;
+    border-color:green;
+    border-width 3px;
+    padding: 20px;           
+
+}
+   .relative2 {
+    position: relative;
+    top: -20px;
+    left: 20px;
+    color white;
+    width: 300px;
+    border-style:solid;
+    background-color:white;
+    border-width 3px;
+    padding:20px;
+}
+
+   .static {
+    position: static;
+    border-width: 50px;
+    padding-bottom: 20px;
+}
+
+   .infixed {
+    position: fixed;
+    top: 0; 
+    right:0; 
+    width: 200px;
+    background-color: pink;
+    border:solid red;
+}
+
+   .relative {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    border:solid green;
+    padding:20px;
+}
+   .absolute {
+    position: absolute;
+    top: 120px;
+    right: 0;
+    width: 300px;
+    height: 200px;
+    border:solid hotpink;
+    padding :20px;
+}

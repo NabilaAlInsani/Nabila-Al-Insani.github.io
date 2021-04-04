@@ -1,0 +1,19 @@
+div {
+    padding:0 1px;
+    margin: 1px 0;
+}
+img{
+    float:right;
+    max-width:  120%;
+}
+.elem {
+    border : solid green 3px;
+    position: relative;
+}
+.sunny {
+    overflow:auto;
+    border:solid hotpink 3px;
+    position :relative;
+    margin:300px;
+    margin-left: 0;
+}

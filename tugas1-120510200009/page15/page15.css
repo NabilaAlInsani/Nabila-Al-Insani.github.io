@@ -1,0 +1,30 @@
+.box {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid seagreen 4px;
+    font-size: 20px;
+  }
+  .after-box1 {
+    clear: left;
+    border:solid yellow 4px;
+    padding: 8px;
+    font-size: 20px;
+  } 
+
+  .box2 {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid seagreen 4px;
+    font-size: 20px;
+    text-align: center;
+  }
+  .after-box2 {
+    clear: left;
+    font-size: 20px;
+    border:solid yellow 4px;
+    padding: 8px;
+  }

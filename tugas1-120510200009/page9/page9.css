@@ -1,0 +1,24 @@
+.ipsum {
+color: #734161;
+background-color:#eee;
+}
+
+.content {
+    max-width: 600px;
+    margin:1emm auto;
+}
+p{
+    display:block;
+    margin-block-start:1em;
+    margin-block-end :1em;
+    margin-inline-start:0px;
+    margin-inline-end:0px;
+}
+.content img {
+    margin: 0 0 1em 1em;
+    float:right;
+}
+
+.img {
+    max-width:100%;
+}
